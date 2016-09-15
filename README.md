@@ -8,7 +8,7 @@ Inspired by Richard Littauer's [post](https://medium.com/@richlitt/100-days-of-c
 For the next 100 days that I code, I will blog and share a repo of what I did that day.
 
 ## My Progress
-|  [day 0](http://github.com/lefrenk/100DaysOfCode) | [day 1a](https://github.com/lefrenk/100DaysofCode/tree/master/automata) / [day 1b](https://github.com/lefrenk/javascript-strings-lab-bootcamp-prep-000) | day 2
+|  [day 0](http://github.com/lefrenk/100DaysOfCode) | [day 1a](https://github.com/lefrenk/100DaysofCode/tree/master/automata) / [day 1b](https://github.com/lefrenk/javascript-strings-lab-bootcamp-prep-000) | [day 2](https://github.com/lefrenk/javascript-intro-to-functions-lab-bootcamp-prep-000) | [day 3](https://github.com/lefrenk/javascript-arithmetic-lab-bootcamp-prep-000)
 
 ## Contributors
 lefrenk
