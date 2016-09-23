@@ -10,7 +10,7 @@ For the next 100 days that I code, I will blog and share a repo of what I did th
 ## My Progress
 |  [day 0](http://github.com/lefrenk/100DaysOfCode) | [day 1a](https://github.com/lefrenk/100DaysofCode/tree/master/automata), [day 1b](https://github.com/lefrenk/javascript-strings-lab-bootcamp-prep-000) | [day 2](https://github.com/lefrenk/javascript-intro-to-functions-lab-bootcamp-prep-000) | [day 3](https://github.com/lefrenk/javascript-arithmetic-lab-bootcamp-prep-000) | [day 4a](https://github.com/lefrenk/javascript-fix-the-scope-lab-bootcamp-prep-000), [day 4b](https://github.com/lefrenk/js-hoisting-readme-bootcamp-prep-000) | [day 5](https://github.com/lefrenk/javascript-arrays-bootcamp-prep-000) | [day 6](https://github.com/lefrenk/javascript-arrays-lab-bootcamp-prep-000) | [day 7a](https://github.com/lefrenk/javascript-objects-bootcamp-prep-000), [day 7b](https://github.com/lefrenk/javascript-objects-lab-bootcamp-prep-000) |
 
-| [day 8](https://github.com/lefrenk/javascript-intro-to-looping-bootcamp-prep-000) | [day 9a](https://github.com/lefrenk/js-beatles-loops-lab-bootcamp-prep-000), [day 9b](https://github.com/lefrenk/js-deli-counter-bootcamp-prep-000) | day 10 | day 11 | day 12 | day 13 | day 14
+| [day 8](https://github.com/lefrenk/javascript-intro-to-looping-bootcamp-prep-000) | [day 9a](https://github.com/lefrenk/js-beatles-loops-lab-bootcamp-prep-000), [day 9b](https://github.com/lefrenk/js-deli-counter-bootcamp-prep-000) | [day 10](https://github.com/lefrenk/js-basics-online-shopping-lab-bootcamp-prep-000) | day 11 | day 12 | day 13 | day 14
 
 ## Contributors
 lefrenk
