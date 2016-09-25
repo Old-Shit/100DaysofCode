@@ -16,6 +16,6 @@ For the next 100 days that I code, I will blog and share a repo of what I did th
 lefrenk
 * Project [repo link](http://github.com/lefrenk/100DaysofCode), 
 * Project [blog page link](http://frenk.me/blog),
-* Free Code Camp [profile](https://www.freecodecamp.com/lefrenk)
 * Learn.co [profile](https://learn.co/lefrenk)
 * Codecademy [profile](https://www.codecademy.com/frenk)
+* Free Code Camp [profile](https://www.freecodecamp.com/lefrenk)
